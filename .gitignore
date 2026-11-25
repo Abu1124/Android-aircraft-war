@@ -1,0 +1,17 @@
+.gradle/
+.idea/
+local.properties
+**/build/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local verification output and installation packages
+evidence/
+*.log
+*.apk
+*.aab
+server-debug
+test/
+Test/
